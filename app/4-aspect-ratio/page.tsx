@@ -1,9 +1,8 @@
 "use client";
 import Image from "next/image";
-
 import { AspectRatio } from "@/components/ui/aspect-ratio";
 import Link from "next/link";
-import { useState } from "react";
+import React, { useState } from "react";
 import { Skeleton } from "@/components/ui/skeleton";
 
 const Page = () => {

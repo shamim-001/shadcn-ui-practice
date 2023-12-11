@@ -29,6 +29,9 @@ const Navbar = () => {
             <DropdownMenuItem>
               <Link href="/3-alert-dialogue">Alert Dialogue</Link>
             </DropdownMenuItem>
+            <DropdownMenuItem>
+              <Link href="/4-aspect-ratio">Aspect Ratio</Link>
+            </DropdownMenuItem>
           </DropdownMenuContent>
         </DropdownMenu>
       </ul>
